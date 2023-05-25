@@ -1,0 +1,9 @@
+.user-item {
+  margin: 1rem 0;
+  background: white;
+  border: 1px solid gray;
+  color: black;
+  padding: 0.5rem;
+  cursor: pointer;
+  list-style-type: none;
+}
