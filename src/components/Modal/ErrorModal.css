@@ -32,6 +32,7 @@
 .modal-btn {
   margin-top: 15%;
   margin-left: 75%;
+  background-color: rgb(102, 23, 111);
 }
 .modal-effect {
   position: fixed;
